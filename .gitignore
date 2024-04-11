@@ -1,0 +1,6 @@
+.vscode
+venv
+db.sqlite3
+ocr/migrations
+media
+output
