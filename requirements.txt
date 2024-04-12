@@ -34,7 +34,7 @@ shapely==2.0.1
 six==1.16.0
 sqlparse==0.4.3
 tifffile==2023.2.3
-torch==2.0.1
+torch==2.0.0
 torchvision==0.14.1
 typing_extensions==4.5.0
 urllib3==1.26.14
